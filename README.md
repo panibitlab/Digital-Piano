@@ -25,11 +25,16 @@
 
 ### Playing Music with LCD Graphics
 
+<p align="center">
+  <img src="gifs/play.gif" width="50%">
+</p>
 once any key is pushed or held, the note animation is displayed on the LCD along with its sound from the buzzer. 
-...
 
 ### Scrolling Demo 
-...
+
+<p align="center">
+  <img src="gifs/scrolling.gif" width="50%">
+</p>
 after 5 seconds from the last button press event, scrolling demo begins. 
 
 ## ✨ Circuit Simulation
