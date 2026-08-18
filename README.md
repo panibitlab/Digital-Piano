@@ -46,6 +46,11 @@ after 5 seconds from the last button press event, scrolling demo begins.
 Wokwi Simulation link:
 > *(https://wokwi.com/projects/472401340838196225)*
 
+## ✨Credit
+
+Note arts where made by this online tool:
+> *(https://chareditor.com/)*
+
 ## ✨ Author & License
 
 **Parnian Ghorbani**
